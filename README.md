@@ -15,7 +15,7 @@ Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the 
 ### Exciting Features
 
 *You can do the following on MigoSwap:
-Trade CORE tokens standard.
+* Trade CORE tokens standard.
 * Provide liquidity and earn fees.
 * Stake your LP (liquidity provider) tokens to earn MIGO token.
 * Stake MIGO to earn more MIGO
@@ -29,11 +29,12 @@ It's your crypto! you own it 100%! Trade directly from your wallet app. MigoSwap
 
 **Are You Secure?**
 
-MigoSwap is built on open-source software: everything is visible! and all our Smart Contracts are available and verified on Core Explorer for transparency.
+MigoSwap is built on open-source software: everything is visible! And all our Smart Contracts will be available and verified on Core Explorer for transparency.
 
-*Security* 
-Our platform is built with security best practices.
-The use of multisig for all contracts.
-Our contracts has time-lock feature for safe usage.
-MigoSwap is built on top Core's Twisted Edwards curve - Edward448 security architecture.
+**Security** 
+
+* Our platform is built with security best practices.
+* The use of multisig for all contracts.
+* Our contracts has time-lock feature for safe usage.
+* MigoSwap is built on top Core's Twisted Edwards curve - Edward448 security architecture.
 
