@@ -23,6 +23,7 @@ Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the 
 * Stake other crypto-assets to earn MIGO.
 
 **You Own IT**
+
 It's your crypto! you own it 100%! Trade directly from your wallet app. MigoSwap doesn’t hold your funds when you trade. All you need to do is connect your wallet app - Trustwallet, Metamask etc.
 
 *And No KYC Is Required*
