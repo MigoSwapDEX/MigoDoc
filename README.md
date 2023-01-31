@@ -10,12 +10,12 @@ Decentralized finance has changed the Narratives in both the universe and crypto
 
 ### Introducing MigoSwap
 
-Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the peaople of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** platform that runs on the trusted and secured [Core Blockchain](https://coreblockchain.cc/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using CORE tokens. Migo decentralized cryptocurrency exchange platform offers significant functionalities like staking, farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P planned to be integrated later. 
+Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the peaople of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** platform that runs on the trusted and secured [Core DAO](https://coredao.org/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using CORE tokens. Migo decentralized cryptocurrency exchange platform offers significant functionalities like staking, farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P planned to be integrated later. 
 
 ### Exciting Features
 
 *You can do the following on MigoSwap:
-* Trade CORE tokens standard.
+* Trade using CORE tokens standard.
 * Provide liquidity and earn fees.
 * Stake your LP (liquidity provider) tokens to earn MIGO token.
 * Stake MIGO to earn more MIGO
@@ -28,6 +28,9 @@ It's your crypto! you own it 100%! Trade directly from your wallet app. MigoSwap
 
 *And No KYC Is Required*
 
+**Low fees**
+MigoSwap runs on Core DAO, a blockchain with much lower transaction costs & flexibility than Ethereum. Trading fees are lower than our competitors on the DEX space, so that's a double win for you!
+
 **Are You Secure?**
 
 MigoSwap is built on open-source software: everything is visible! And all our Smart Contracts will be available and verified on Core Explorer for transparency.
@@ -36,6 +39,5 @@ MigoSwap is built on open-source software: everything is visible! And all our Sm
 
 * Our platform is built with security best practices.
 * The use of multisig for all contracts.
-* Our contracts has time-lock feature for safe usage.
-* MigoSwap leverages on the Core  Satoshi Plus consensus, which operates at the core of the Core Network. Satoshi Plus consensus combines Proof of Work (PoW) and       Delegated Proof of Stake (DPoS) for scalibility, decentralization and security.
+* MigoSwap leverages on the Core Satoshi Plus consensus, which operates at the core of the Core Network. Satoshi Plus consensus combines Proof of Work (PoW) and        Delegated Proof of Stake (DPoS) for scalibility, decentralization and security.
 
