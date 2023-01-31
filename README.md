@@ -37,5 +37,5 @@ MigoSwap is built on open-source software: everything is visible! And all our Sm
 * Our platform is built with security best practices.
 * The use of multisig for all contracts.
 * Our contracts has time-lock feature for safe usage.
-* MigoSwap is built on top Core's Twisted Edwards curve - Edward448 security architecture.
+* MigoSwap leverages on the Core  Satoshi Plus consensus, which operates at the core of the Core Network. Satoshi Plus consensus combines Proof of Work (PoW) and       Delegated Proof of Stake (DPoS) for scalibility, decentralization and security.
 
