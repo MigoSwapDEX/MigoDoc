@@ -30,7 +30,27 @@ You can provide liquidity to either:
 - A pool created by you
 
 Creating your own pool is usually done by new projects looking to debut their cryptocurrency token. If that doesn't sound like you, providing liquidity to an existing pool is the better option.
-Once you select the pair you're providing liquidity for, go ahead and deposit by confirming the transaction. After depositing, you'll receive ***,  an LP token that represents your stake in the pool.
-The benefit of holding the (***) LP token is every time an exchange happens that taps into your pool's liquidity, you receive a portion of the rewards. To claim those rewards, you simply redeem your *** tokens to unlock the underlying assets which, by now, have grown in value.
+Once you select the pair you're providing liquidity for, go ahead and deposit by confirming the transaction. After depositing, you'll receive (*****), an LP token that represents your stake in the pool.
+The benefit of holding the (*****) LP token is every time an exchange happens that taps into your pool's liquidity, you receive a portion of the rewards. To claim those rewards, you simply redeem your *** tokens to unlock the underlying assets which, by now, have grown in value.
+
+***Staking and Yield Farming***
+
+MigoSwap intensifies yield farming for liquidity providers to earn rewards in high APR! Our farm is an incentive for liquidity providers.
+
+To farm, simply deposit your given LP tokens to mint our partners' tokens available  on our platform or MIGO token.
+In Our Yield Farm, your LP token (*****) which is a representative of the Liquidity you provided can be staked to earn other 
+tokens depending on the yield farm of your choice..
+
+**APR for Yield Farming Pools**
+
+400% PLUS - Liquidity Pool for MIGO Pair.
+300% PLUS - Liquidity Pool for other token pairs
+The APR decreases as the liquidity providers increase
+( This values are subject to change when we go live)
+
+_*How To Use?*_
+
+To use, choose the farms with higher APR that interest you most, then use your LP tokens to stake.
+
 
 ***All Asteriks are yet to be concluded by the MigoSwap team.***
