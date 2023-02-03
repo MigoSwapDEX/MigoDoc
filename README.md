@@ -41,3 +41,6 @@ MigoSwap is built on open-source software: everything is visible! And all our Sm
 * The use of multisig for all contracts.
 * MigoSwap leverages on the Core Satoshi Plus consensus, which operates at the core of the Core Network. Satoshi Plus consensus combines Proof of Work (PoW) and        Delegated Proof of Stake (DPoS) for scalibility, decentralization and security.
 
+### App Interface Doc
+- **[](link)**
+
