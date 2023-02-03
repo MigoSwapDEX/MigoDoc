@@ -23,8 +23,10 @@ _*How To Use?*_
 
 Click Liquidity, then Add liquidity, and make sure your wallet is unlocked. Now you'll be asked to specify which tokens you're providing liquidity for. Remember, providing liquidity on MigoSwap is done in pairs, meaning you must provide two tokens.
 You can provide liquidity to either:
-_Existing pools
-_A pool created by you
+
+- Existing pools
+
+- A pool created by you
 
 Creating your own pool is usually done by new projects looking to debut their cryptocurrency token. If that doesn't sound like you, providing liquidity to an existing pool is the better option.
 Once you select the pair you're providing liquidity for, go ahead and deposit by confirming the transaction. After depositing, you'll receive ***,  an LP token that represents your stake in the pool.
