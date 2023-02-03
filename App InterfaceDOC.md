@@ -44,9 +44,10 @@ tokens depending on the yield farm of your choice..
 **APR for Yield Farming Pools**
 
 400% PLUS - Liquidity Pool for MIGO Pair.
-300% PLUS - Liquidity Pool for other token pairs
-The APR decreases as the liquidity providers increase
-( This values are subject to change when we go live)
+
+300% PLUS - Liquidity Pool for other token pairs.
+
+The APR decreases as the liquidity providers increase ( This values are subject to change when we go live)
 
 _*How To Use?*_
 
