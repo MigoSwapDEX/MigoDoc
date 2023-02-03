@@ -6,13 +6,14 @@ Our App interface consists of the following contracts.
 - Yield Farming Pool
 - Milkbar Pool
 
-**Swap**
+***Swap***
+
 Our Swap interface let users swap CORE crypto-assets. You can Instantly swap crypto tokens: no registration or account needed.
 
 _To trade, click on the App button, then select the token to be swapped and the desired token then click on swap!
  The trading fee is *.**%., *.**% goes to liquidity providers, *.**% goes to MigoSwap Treasury which is used for OREO buyback and burn._
 
-**Liquidity Pool**
+***Liquidity Pool***
 
 This pool let users, project owners, investors stake their crypto-assets to earn profit.
 The staked assets are used on the swap interface for trading. To encourage liquidity pool creators/providers we offer a plethora of DeFi farming opportunities.... 
