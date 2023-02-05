@@ -1,6 +1,7 @@
 # Welcome to MigoSwap
 This repo contains all the important and technical information about this project.
-<img width="3978" alt="migoswap-lohoo" src="https://user-images.githubusercontent.com/78348683/216839222-3dfc36bb-7414-4ff6-b39e-0bc20e43941b.png">
+<img width="5941" alt="logopng3" src="https://user-images.githubusercontent.com/78348683/216841424-7aa5609c-4c5e-42e7-8ea2-772d6b548c76.png">
+
 
 
 
@@ -11,7 +12,7 @@ Decentralized finance has changed the Narratives in both the universe and crypto
 
 ### Introducing MigoSwap
 
-Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the peaople of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** platform that runs on the trusted and secured [Core DAO](https://coredao.org/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using CORE tokens. Migo decentralized cryptocurrency exchange platform offers significant functionalities like staking, farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P planned to be integrated later. 
+Welcome to MigoSwap! "Migo" is a word from the cebuano speaking language of the peaople of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** (AMM) platform that runs on the trusted and secured [Core DAO](https://coredao.org/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using CORE tokens. Migo decentralized cryptocurrency exchange platform offers significant functionalities like staking, farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P planned to be integrated later. 
 
 ### Exciting Features
 
