@@ -2,7 +2,7 @@
 
 MigoSwap intensifies yield farming for liquidity providers to earn rewards in high APR! Our farm is an incentive for liquidity providers.
 
-To farm, simply deposit your given LP tokens to mint our partners' tokens available on our platform or MIGO token. In Our Yield Farm, your MIGO\_LP token which is a representative of the Liquidity you provided can be staked to earn other tokens depending on the yield farm of your choice..
+To farm, simply deposit your given LP tokens to mint our partners' tokens available on our platform or MIGO token. In Our Yield Farm, your `MIGO_LP` token which is a representative of the Liquidity you provided can be staked to earn other tokens depending on the yield farm of your choice..
 
 **APR for Yield Farming Pools**
 

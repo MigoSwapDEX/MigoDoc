@@ -7,7 +7,7 @@ Our App interface consists of the following contracts.
 * Yield Farming Pool
 * Milkbar Pool
 
-### _**Swap**_
+## _**Swap**_
 
 Our Swap interface let users swap CORE crypto-assets. You can Instantly swap crypto tokens: no registration or account needed.
 

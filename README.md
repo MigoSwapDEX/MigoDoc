@@ -1,14 +1,12 @@
 ---
 description: >-
-  This repo contains all the important and technical information about this
-  project.
+  This documentation contains all the important and technical information about
+  MigoSwap.
 ---
 
 # Welcome to MigoSwap
 
 ![logopng3](https://user-images.githubusercontent.com/78348683/216841424-7aa5609c-4c5e-42e7-8ea2-772d6b548c76.png)
-
-***
 
 ### Concept Introduction
 
@@ -51,8 +49,6 @@ MigoSwap is built on open-source software: everything is visible! And all our Sm
 * The use of multisig for all contracts.
 * MigoSwap leverages on the Core Satoshi Plus consensus, which operates at the core of the Core Network. Satoshi Plus consensus combines Proof of Work (PoW) and Delegated Proof of Stake (DPoS) for scalibility, decentralization and security.
 
-#### App Interface Doc
 
-* [**App Interface**](App%20InterfaceDOC.md)
 
 ##
