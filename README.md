@@ -51,4 +51,11 @@ MigoSwap is built on open-source software: everything is visible! And all our Sm
 
 
 
+#### App Interface Doc
+
+* [**App Interface**](app-interface.md)
+* [**Liqidity Pool**](liquidity-pool.md)
+* [**Pools**](pools.md)
+* [**Staking And Farming**](staking-and-farming.md)
+
 ##
