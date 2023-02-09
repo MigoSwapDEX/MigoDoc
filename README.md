@@ -16,7 +16,7 @@ Decentralized finance has changed the Narratives in both the universe and crypto
 
 ### Introducing MigoSwap
 
-Welcome to MigoSwap! "Migo" is a word from the Cebuano speaking language of the people of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** (AMM) platform that runs on the trusted and secured [Core DAO](https://coredao.org/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using CORE tokens, with a plan to add cross chain and multichain functionality on a later date. MigoSwap decentralized cryptocurrency exchange platform offers significant functionalities like staking, yield farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P are all planned to be integrated later. We believe that our DEX has the potential to revolutionize the cryptocurrency industry
+Welcome to MigoSwap! "Migo" is a word from the Cebuano speaking language of the people of Midano and Visayas in the Philippines meaning "a person you know well and regard with affection and trust." - A FRIEND. MigoSwap is a **Decentralized Exchange** (AMM) platform that runs on the trusted and secured [Core DAO](https://coredao.org/) infrastructure. It is specially designed and developed to improve user experience with exciting features for fast, inexpensive and secure trades using ERC20 tokens, with a plan to add cross chain and multichain functionality on a later date. MigoSwap decentralized cryptocurrency exchange platform offers significant functionalities like staking, yield farming, swapping and Liquidity pools. Other features like the Lottery system, NFT market place and P2P are all planned to be integrated later. We believe that our DEX has the potential to revolutionize the cryptocurrency industry
 
 
 
@@ -24,7 +24,7 @@ Welcome to MigoSwap! "Migo" is a word from the Cebuano speaking language of the 
 
 \*You can do the following on MigoSwap:
 
-* Trade using CORE tokens standard \[ERC20]. `(`_`Currently live on the testnet)`_
+* Trade using ERC20 tokens standard on CORE chain. `(`_`Currently live on the testnet)`_
 * Provide liquidity and earn fees. `(`_`Currently live on the testnet)`_
 * Stake your LP (liquidity provider) tokens to earn MIGO token.
 * Stake MIGO to earn more MIGO
