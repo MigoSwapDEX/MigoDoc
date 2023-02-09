@@ -1,4 +1,4 @@
-# Staking And Farming
+# Staking And Yield Farming
 
 MigoSwap intensifies yield farming for liquidity providers to earn rewards in high APR! Our farm is an incentive for liquidity providers.
 
@@ -16,5 +16,5 @@ _How To Use?_
 
 To use, choose the farms with higher APR that interest you most, then use your LP tokens to stake.
 
-_**All Asteriks are yet to be concluded by the MigoSwap team.**_
+_(Yet to go liveon the testnet)_
 
