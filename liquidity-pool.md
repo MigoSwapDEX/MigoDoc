@@ -2,7 +2,7 @@
 
 ## _About_ _**Liquidity Pool**_
 
-This pool let users, project owners, investors stake their crypto-assets to earn profit. The staked assets are used on the swap interface for trading. To encourage liquidity pool creators/providers we offer a plethora of DeFi farming opportunities.... Those who provide liquidity to our pool gets LP tokens and earn a portion of trading fees. Liquidity provider tokens are called `MIGO_LP` or simply LP tokens.`(`_`Currently live on the testnet)`_
+This pool let users, project owners, investors stake their crypto-assets to earn profit. The staked assets are used on the swap interface for trading. To encourage liquidity pool creators/providers we offer a plethora of DeFi farming opportunities.... Those who provide liquidity to our pool gets LP tokens and earn a portion of trading fees. Liquidity provider tokens are called `MIGO_LP` or simply LP tokens.`(`_`Currently live on testnet)`_
 
 You can also Stake LP tokens to earn MIGO or Other tokens. (A percentage of our trading fees goes to liquidity providers).
 

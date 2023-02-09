@@ -16,5 +16,5 @@ _How To Use?_
 
 To use, choose the farms with higher APR that interest you most, then use your LP tokens to stake.
 
-_(Yet to go liveon the testnet)_
+_(Yet to go live on testnet)_
 
