@@ -40,7 +40,7 @@ _And No KYC Is Required_
 
 **Low fees**
 
-&#x20;MigoSwap runs on CoreDAO, a blockchain with much lower transaction costs & flexibility than Ethereum. Trading fees are lower than our competitors on the DEX space, so that's a double win for you!
+&#x20;MigoSwap runs on an ERC20 blockchain with much lower transaction costs & flexibility than Ethereum. Trading fees are lower than our competitors on the DEX space, so that's a double win for you!
 
 **Are You Secure?**
 
