@@ -1,6 +1,6 @@
 # How To Use MigoPools
 
-1. Go to the page here and Connect to your EVM compatible wallet by clicking the Connect button (top right-hand side).
+1. Go to the page [here](https://migoswap.org/#/pools) and Connect to your EVM compatible wallet by clicking the Connect button (top right-hand side).
 2. Click unlock wallet and Choose which MigoPool you want to stake in.
 
 Auto MIGO automatically compounds your rewards: any MIGO you earn will be harvested and re-invested in the same pool for you.
