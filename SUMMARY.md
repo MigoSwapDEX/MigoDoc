@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome to MigoSwap](README.md)
-* [App  Interface](app-interface/README.md)
+* [App  Interface](app-interface.md)
   * [How To Trade?](app-interface/how-to-trade.md)
-* [Liquidity Pool](liquidity-pool/README.md)
+* [Liquidity Pool](liquidity-pool.md)
   * [How To Add Liquidity?](liquidity-pool/how-to-add-liquidity.md)
   * [How To Remove Liquidity?](liquidity-pool/how-to-remove-liquidity.md)
 * [MigoPools](pools.md)
