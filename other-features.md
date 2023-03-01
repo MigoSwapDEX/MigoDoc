@@ -6,6 +6,7 @@ MigoSwap has the potential to revolutionize the cryptocurrency industry, and Our
 
 #### More features coming to MIgoSwap are and not limited to:
 
+* LaunchPAD
 * NFTs, market place
 * Lottery system
 * P2P transactions

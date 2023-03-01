@@ -6,3 +6,4 @@
 * [Pools](pools.md)
 * [Staking And Yield Farming](staking-and-yield-farming.md)
 * [Other Features](other-features.md)
+* [Roadmap](roadmap.md)
