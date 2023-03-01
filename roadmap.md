@@ -10,7 +10,8 @@
 
 * [x] Updating the smart contract and deployment of our Yield farming and MigoPool protocol to the testnet.
 * [x] Testing and approval of the above.
-* [ ] Mainnet deployment of MigoSwap first four protocols: Swap Liquidity provider Yield farming MigoSwap pool.
+* [x] Deploying and testing of MIGO token on the testnet.
+* [ ] Mainnet deployment of MigoSwap first four protocols: Swap Liquidity provider Yield farming MigoPool.
 * [ ] Production UI/UX of Landing page And LaunchPAD deployment.
 
 ## Phase 3
