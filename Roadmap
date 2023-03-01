@@ -2,12 +2,12 @@
 
 #Phase 1
 - [x] Ideation, planning and execution of MigoSwap and team creation.
-- [x] Building and deployment and testing of our Swap protocol and liquidy provider protocol.
+- [x] Building, deployment and testing of our Swap protocol and liquidy provider protocol.
 - [x] Building the frontend for community testing.
 
 #Phase 2
-- [ ] Deployment of our Yield farming and MigoPool protocol to the testnet.
-- [ ] Testing and approval of the above.
+- [x] Updating our smart contract and deployment of our Yield farming and MigoPool protocol to the testnet.
+- [x] Testing and approval of the above.
 - [x] mainnet deployment of MigoSwap first four protocols:
       Swap
       Liquidity provider
