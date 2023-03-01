@@ -1,4 +1,4 @@
-# Pools
+# MigoPools
 
 * Existing pools
 * A pool created by you
