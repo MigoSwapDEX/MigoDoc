@@ -16,10 +16,11 @@
 
 ## Phase 3
 
-* [ ] User interface iimprovement and deployment.
+* [ ] App User interface improvement and deployment.
 * [ ] Building and deployment of Lottery protocol.
 
 ## Phase 4
 
 * [ ] NFT Market place.
 * [ ] Cross chain and Multichain functionality.
+* [ ] Other chains integration
