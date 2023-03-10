@@ -18,9 +18,11 @@
 
 * [ ] App User interface improvement and deployment.
 * [ ] Building and deployment of Lottery protocol.
+* [ ] Limit Order
 
 ## Phase 4
 
 * [ ] NFT Market place.
 * [ ] Cross chain and Multichain functionality.
 * [ ] Other chains integration
+* [ ] Migo Worldwide Events.
