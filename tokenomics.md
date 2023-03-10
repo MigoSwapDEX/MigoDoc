@@ -1,5 +1,7 @@
 # Tokenomics
 
+<figure><img src=".gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
+
 ### Hello to all Amigos!
 
 We finally have our token distribution available for the community.
@@ -9,6 +11,6 @@ We finally have our token distribution available for the community.
 * Airdrop - 10%
 * Partnership & Ambassador - 5%
 * Reserves - 15%
-* CEX - 20%
+* CEX Listing - 20%
 
 <figure><img src=".gitbook/assets/Group 23.png" alt=""><figcaption></figcaption></figure>
