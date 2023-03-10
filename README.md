@@ -1,12 +1,6 @@
----
-description: >-
-  This documentation contains all the important and technical information about
-  MigoSwap.
----
-
 # Welcome to MigoSwap
 
-![logopng3](https://user-images.githubusercontent.com/78348683/216841424-7aa5609c-4c5e-42e7-8ea2-772d6b548c76.png)
+<figure><img src=".gitbook/assets/amigos banner.png" alt=""><figcaption></figcaption></figure>
 
 ### Concept Introduction
 
