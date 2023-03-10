@@ -1,5 +1,7 @@
 # App  Interface
 
+<figure><img src=".gitbook/assets/Defaultjhh.png" alt=""><figcaption></figcaption></figure>
+
 Our App interface consists of the following contracts.
 
 * Swap
