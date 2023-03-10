@@ -1,5 +1,7 @@
 # How To Trade?
 
+<figure><img src="../.gitbook/assets/trade.png" alt=""><figcaption></figcaption></figure>
+
 1\. Go to the exchange page [here](https://dex.migoswap.org/#/swap)
 
 2\. Unlock your EVM compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner).&#x20;
