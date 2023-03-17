@@ -26,3 +26,8 @@
 * [ ] Cross chain and Multichain functionality.
 * [ ] Other chains integration
 * [ ] Migo Worldwide Events.
+
+## Phase 5
+
+* [ ] Governance
+

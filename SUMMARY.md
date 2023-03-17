@@ -12,6 +12,7 @@
 * [Staking And Yield Farming](staking-and-yield-farming.md)
 * [Other Features](other-features.md)
 * [Roadmap](roadmap.md)
-* [Tokenomics](tokenomics.md)
+* [Tokenomics](tokenomics/README.md)
+  * [Governance](tokenomics/governance.md)
 * [Contact Us](contact-us.md)
 * [Customer support](customer-support.md)
